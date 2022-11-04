@@ -1,0 +1,1 @@
+console.log("Program pokrenut iz node-a");
